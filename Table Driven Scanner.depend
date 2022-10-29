@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1541360163 source:c:\users\yassin gritli\desktop\table driven scanner\main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<regex>
+
+1494401735 source:g:\users\yassin gritli\desktop\homeworks\table driven scanner\main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<regex>
+

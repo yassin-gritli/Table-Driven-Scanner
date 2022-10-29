@@ -1,0 +1,15 @@
+(* This line will be ignored *)
+{ Also This line will be ignored }
+(* But This line will
+{ Also This line will generate an error
+TestProgram(input,output);
+int A,B,C,AB,AC ;
+begin
+A:= 10.5 ;
+B:= 20.8 ;
+C:= A + B ;
+if ( A <> B ) then
+AB:=A*B;
+else
+AC:=A*c;
+end
